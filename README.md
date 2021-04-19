@@ -14,7 +14,7 @@ Wintellect helps you drive innovation by modernizing your applications and data.
 1. Dictionaries and Sets
 1. Object-oriented Python
 1. Creating and Using Modules
-1. Errors and Exception Handling
+1. Async & Web APIs
 1. Working with Files
 1. Regular Expressions
 1. Using the Standard Library
